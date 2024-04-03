@@ -7,15 +7,15 @@
 
 ➡ Contáctame en **nicolas.cuello96@hotmail.com**
 
-<h3 align="left">Sobre mi: </h3>
+<h3 align="left">Sobre mí: </h3>
 <p align="left">
 
-· Este perfil es de una persona dedicada, que disfruta del hecho de programar y poder desarrollar la creacion de sitios o aplicaciones que sean tanto divertidas como utiles! 
-  Estoy en proceso de aprender a desempeñar un mejor rendimiento en el codeo ademas de ir afianzando mayores conocimientos, quiero seguir creciendo 💪 ·
+· ¡Este perfil es de una persona dedicada, que disfruta del hecho de programar y poder desarrollar la creación de sitios o aplicaciones que sean tanto divertidas como útiles!
+Estoy en proceso de aprender a desempeñar un mejor rendimiento en el codeo, además de ir afianzando mayores conocimientos, quiero seguir creciendo 💪 ·
 
 
-· Entusiasta y comprometido en el desarrollo
-de programacion tanto a nivel profesional como personal.
+· Entusiasta y comprometido en el desarrollo de mi persona
+tanto a nivel profesional como personal.
 
 · Apasionado en la programación y la
 informática.
