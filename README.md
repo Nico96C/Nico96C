@@ -1,5 +1,5 @@
 <h1 align="center">Hola, soy Nicolás Cuello</h1>
-<h3 align="center">Un iniciante en la programación, disfrutando y aprendiendo en este mundo siendo programador.</h3>
+<h3 align="center">Un principiante en la programación, disfrutando y aprendiendo en este mundo siendo programador.</h3>
 
 ➡ Trabajando ahora mismo en [Componentes-PC (In Process)](https://github.com/Nico96C/Componentes-PC)
 
